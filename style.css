@@ -15,12 +15,14 @@ html,
 body {
     height: 100%;
     width: 100%;
+    overflow-x: hidden;
 }
 
 #main {
     /* background-color: black; */
     position: relative;
     z-index: 10;
+
 }
 
 #page1 {
